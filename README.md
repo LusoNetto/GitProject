@@ -1,2 +1,2 @@
 # GitProject
-This is project to GitProject NewGo
+This is a project to GitProject NewGo
